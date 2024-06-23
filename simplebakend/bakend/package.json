@@ -1,0 +1,21 @@
+{
+  "name": "bakend",
+  "version": "1.0.0",
+  "description": "a bakend code for basic app",
+  "main": "index.js",
+  "type": "module" ,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "who",
+    "or",
+    "me"
+  ],
+  "author": "sujal nimje",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
